@@ -1,0 +1,15 @@
+.mainDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+button {
+  height: 5rem;
+  width: 10rem;
+  border-radius: 8rem;
+}
+
+.LightMode {
+  color: Black;
+}
